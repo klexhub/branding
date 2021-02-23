@@ -1,4 +1,4 @@
-<img src="https://klexhub-public.s3.eu-central-1.amazonaws.com/KlexHealth.png" alt="KlexHub logo" title="KlexHub" align="right" width="200"/>
+<img src="https://klexhub-public.s3.eu-central-1.amazonaws.com/KlexHub.png" alt="KlexHub logo" title="KlexHub" align="right" width="200"/>
 
 # KlexHub Branding
 
